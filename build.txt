@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=assets/myicon.ico --add-data "assets;assets" --add-data "images;images" --add-data "music;music" main.py
